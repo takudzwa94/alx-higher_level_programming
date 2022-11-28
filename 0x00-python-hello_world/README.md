@@ -87,7 +87,7 @@ What you should learn from this project:
 <div align="center">
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Takudzwa Chidobera** (https://github.com/takudzwa94)
 -----
 
 
